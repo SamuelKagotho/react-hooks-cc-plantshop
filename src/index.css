@@ -135,3 +135,17 @@ input:focus {
     width: calc(20% - 2rem);
   }
 }
+
+.delete-btn {
+  background-color: rgb(252, 61, 61);
+  color: white;
+  border: none;
+  padding: 4px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.delete-btn:hover {
+  opacity: 0.8;
+}
+

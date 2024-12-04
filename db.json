@@ -1,46 +1,74 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": "15.60",
+      "inStock": true
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "inStock": true
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.99,
+      "inStock": true
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": 12.11,
+      "inStock": true
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "inStock": true
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": "24.99",
+      "inStock": true
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": "60",
+      "inStock": false
+    },
+    {
+      "id": "5ead",
+      "name": "Green Money Plant",
+      "image": "https://gachwala.in/wp-content/uploads/2022/06/IMAGE-1-13.webp",
+      "price": "80",
+      "inStock": true
+    },
+    {
+      "id": "2c63",
+      "name": "Little green plant sprouting",
+      "image": "https://media.istockphoto.com/id/2077907368/photo/little-green-plant-sprouting-from-the-soil-heap.jpg?s=2048x2048&w=is&k=20&c=2cZccLGle6DtZbVhrjQMfrOgFnW8BnNkqwiRNJ2t5qM=",
+      "price": "20.20",
+      "inStock": false
+    },
+    {
+      "id": "1f0e",
+      "name": "Cactus",
+      "image": "https://cdn.pixabay.com/photo/2023/06/15/15/57/cactus-8065902_960_720.png",
+      "price": "18.25",
+      "inStock": false
     }
   ]
 }
